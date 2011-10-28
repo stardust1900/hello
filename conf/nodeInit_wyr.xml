@@ -1,0 +1,7 @@
+<configuration>
+<hosturl>hdfs://cstortest:9000</hosturl>
+<cdrdatadir>hdfs://cstortest:9000/wyr_cdr_test/</cdrdatadir>
+<dtdatadir>hdfs://cstortest:9000/wyr_dt_test/</dtdatadir>
+<cdrmergerowscount>100</cdrmergerowscount>
+<dtmergerowscount>2</dtmergerowscount>
+</configuration>

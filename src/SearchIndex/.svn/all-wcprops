@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/converterx/!svn/ver/195/trunk/telecom/src/SearchIndex
+END
+queryConditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/converterx/!svn/ver/195/trunk/telecom/src/SearchIndex/queryConditions.java
+END
+ReadIndexThreadBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/converterx/!svn/ver/195/trunk/telecom/src/SearchIndex/ReadIndexThreadBase.java
+END
+ReadIndexThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/converterx/!svn/ver/195/trunk/telecom/src/SearchIndex/ReadIndexThread.java
+END
+ReadFromLocalDiskThreadBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/converterx/!svn/ver/195/trunk/telecom/src/SearchIndex/ReadFromLocalDiskThreadBase.java
+END
+SearchCDRTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/converterx/!svn/ver/195/trunk/telecom/src/SearchIndex/SearchCDRTools.java
+END

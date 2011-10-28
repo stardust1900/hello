@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/converterx/!svn/ver/184/trunk/telecom/lib
+END
+swing-worker-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/converterx/!svn/ver/170/trunk/telecom/lib/swing-worker-1.1.jar
+END
+commons-codec-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/commons-codec-1.3.jar
+END
+oro-2.0.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/oro-2.0.8.jar
+END
+mockito-all-1.8.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/mockito-all-1.8.0.jar
+END
+slf4j-api-1.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/slf4j-api-1.4.3.jar
+END
+slf4j-log4j12-1.4.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/slf4j-log4j12-1.4.3.jar
+END
+junit-3.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/junit-3.8.1.jar
+END
+ftp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/converterx/!svn/ver/170/trunk/telecom/lib/ftp.jar
+END
+kfs-0.2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/kfs-0.2.2.jar
+END
+commons-cli-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/commons-cli-1.2.jar
+END
+hadoop-0.20.2-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/converterx/!svn/ver/161/trunk/telecom/lib/hadoop-0.20.2-core.jar
+END
+commons-net-1.4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/converterx/!svn/ver/170/trunk/telecom/lib/commons-net-1.4.1.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/commons-logging-1.0.4.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/converterx/!svn/ver/161/trunk/telecom/lib/dom4j-1.6.1.jar
+END
+kfs-0.2.LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/kfs-0.2.LICENSE.txt
+END
+servlet-api-2.5-6.1.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/servlet-api-2.5-6.1.14.jar
+END
+appframework-1.0.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/converterx/!svn/ver/170/trunk/telecom/lib/appframework-1.0.3.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/log4j-1.2.15.jar
+END
+commons-logging-api-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/commons-logging-api-1.0.4.jar
+END
+jasper-runtime-5.5.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/jasper-runtime-5.5.12.jar
+END
+jetty-util-6.1.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/jetty-util-6.1.14.jar
+END
+jasper-compiler-5.5.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/jasper-compiler-5.5.12.jar
+END
+hadoop-0.20.2-tools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/converterx/!svn/ver/161/trunk/telecom/lib/hadoop-0.20.2-tools.jar
+END
+hsqldb-1.8.0.10.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/hsqldb-1.8.0.10.jar
+END
+hsqldb-1.8.0.10.LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/hsqldb-1.8.0.10.LICENSE.txt
+END
+hadoop-0.20.2-ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/converterx/!svn/ver/161/trunk/telecom/lib/hadoop-0.20.2-ant.jar
+END
+commons-httpclient-3.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/commons-httpclient-3.0.1.jar
+END
+xmlenc-0.52.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/xmlenc-0.52.jar
+END
+jetty-6.1.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/jetty-6.1.14.jar
+END
+jets3t-0.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/jets3t-0.6.1.jar
+END
+core-3.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/core-3.1.1.jar
+END
+beansbinding-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/converterx/!svn/ver/170/trunk/telecom/lib/beansbinding-1.2.1.jar
+END
+jakarta-oro.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/converterx/!svn/ver/177/trunk/telecom/lib/jakarta-oro.jar
+END
+commons-el-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/converterx/!svn/ver/184/trunk/telecom/lib/commons-el-1.0.jar
+END

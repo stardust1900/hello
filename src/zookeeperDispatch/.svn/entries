@@ -1,0 +1,34 @@
+10
+
+dir
+289
+http://192.168.0.110:88/svn/converterx/trunk/telecom/src/zookeeperDispatch
+http://192.168.0.110:88/svn/converterx
+
+
+
+2011-09-30T09:53:13.406250Z
+154
+gyy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1b83fd2f-60a3-9244-9784-56138835ebbc
+
+CloudComputingClient
+dir
+
+CloudComputingServer
+dir
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/converterx/!svn/ver/154/trunk/telecom/src/zookeeperDispatch/CloudComputingClient
+END
+ClientTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/converterx/!svn/ver/136/trunk/telecom/src/zookeeperDispatch/CloudComputingClient/ClientTest.java
+END
+CloudComputingClientBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/converterx/!svn/ver/136/trunk/telecom/src/zookeeperDispatch/CloudComputingClient/CloudComputingClientBase.java
+END
+FindAllClientIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/converterx/!svn/ver/154/trunk/telecom/src/zookeeperDispatch/CloudComputingClient/FindAllClientIP.java
+END
+CloudComputingClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/converterx/!svn/ver/136/trunk/telecom/src/zookeeperDispatch/CloudComputingClient/CloudComputingClient.java
+END
+TestDoWithQuestThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/converterx/!svn/ver/136/trunk/telecom/src/zookeeperDispatch/CloudComputingClient/TestDoWithQuestThread.java
+END

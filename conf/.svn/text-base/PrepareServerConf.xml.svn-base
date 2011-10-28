@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+<host>192.168.0.213</host>
+<namenodeaddr>192.168.1.8:9000</namenodeaddr>
+<datanodeaddr>192.168.1.14,192.168.1.16,192.168.1.18,192.168.1.20,192.168.1.22</datanodeaddr>
+<namenodeport>9000</namenodeport>
+<port>21</port>
+<username>cstor</username>
+<password>cstor</password>
+<cdrurl>/CDR/gzbsc1,/CDR/gzbsc2,/CDR/gzbsc3</cdrurl>
+<psmmurl>/PSMM/gzbsc1,/PSMM/gzbsc2,/PSMM/gzbsc3</psmmurl>
+<dturl>/DT</dturl>
+</configuration>

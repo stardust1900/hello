@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/converterx/!svn/ver/250/trunk/telecom/src/createIndex
+END
+CreateHDFSIndexImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/converterx/!svn/ver/203/trunk/telecom/src/createIndex/CreateHDFSIndexImp.java
+END
+CreateHDFSIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/converterx/!svn/ver/227/trunk/telecom/src/createIndex/CreateHDFSIndex.java
+END
+generateIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/converterx/!svn/ver/250/trunk/telecom/src/createIndex/generateIndex.java
+END
+ReadFromHDFSSever.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/converterx/!svn/ver/192/trunk/telecom/src/createIndex/ReadFromHDFSSever.java
+END
+RepairThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/converterx/!svn/ver/208/trunk/telecom/src/createIndex/RepairThread.java
+END
+CreateDataForTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/converterx/!svn/ver/212/trunk/telecom/src/createIndex/CreateDataForTest.java
+END
+ReadFromHDFSClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/converterx/!svn/ver/190/trunk/telecom/src/createIndex/ReadFromHDFSClient.java
+END

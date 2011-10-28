@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/converterx/!svn/ver/152/trunk/telecom/src/zookeeperDispatch/CloudComputingServer
+END
+BalanceWhenFailThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/converterx/!svn/ver/137/trunk/telecom/src/zookeeperDispatch/CloudComputingServer/BalanceWhenFailThread.java
+END
+MonitorTheClientThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/converterx/!svn/ver/151/trunk/telecom/src/zookeeperDispatch/CloudComputingServer/MonitorTheClientThread.java
+END
+IP.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/converterx/!svn/ver/137/trunk/telecom/src/zookeeperDispatch/CloudComputingServer/IP.java
+END
+SeverTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/converterx/!svn/ver/137/trunk/telecom/src/zookeeperDispatch/CloudComputingServer/SeverTest.java
+END
+CloudComputingServerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/converterx/!svn/ver/137/trunk/telecom/src/zookeeperDispatch/CloudComputingServer/CloudComputingServerBase.java
+END
+CloudComputingServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/converterx/!svn/ver/152/trunk/telecom/src/zookeeperDispatch/CloudComputingServer/CloudComputingServer.java
+END
+FindAllServerIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/converterx/!svn/ver/137/trunk/telecom/src/zookeeperDispatch/CloudComputingServer/FindAllServerIP.java
+END
